@@ -19,7 +19,6 @@ You can try out the live demo [here](https://quiz-app-two-pi.vercel.app/).
 ## About
 
 This Quiz App is a web-based application designed to test your knowledge on various topics. It presents a series of questions with multiple-choice answers. Users can select an answer and submit their responses to see their score at the end.
-
 ## Features
 
 - Multiple-choice questions.
